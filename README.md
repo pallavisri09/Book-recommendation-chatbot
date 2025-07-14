@@ -35,7 +35,7 @@ Easy to deploy and customize
 ## Technologies Used
 IBM Watson Assistant – Natural language understanding
 
-<link>https://api.au-syd.assistant.watson.cloud.ibm.com/instances/9a79d680-5e9f-4c83-9871-28eaeab0d674</link>
+
 
 
 
