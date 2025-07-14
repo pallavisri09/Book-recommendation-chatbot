@@ -12,6 +12,3 @@ Suggests books based on:
 
 Genre (e.g., romance, thriller, sci-fi)
 
-Mood (e.g., uplifting, dark, emotional)
-
-Author preferences
