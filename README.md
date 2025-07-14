@@ -20,5 +20,9 @@ Integrated with IBM Watson Assistant
 
 Easy to deploy and customize
 
+## Screenshot
+<img width="1366" height="768" alt="Screenshot 2025-07-14 123146" src="https://github.com/user-attachments/assets/52ec7c46-f33b-4f5a-a9fb-9bd8f06b376a" />
+
+
 
 
