@@ -32,6 +32,11 @@ Easy to deploy and customize
 
 <img width="1366" height="768" alt="Screenshot 2025-07-14 124443" src="https://github.com/user-attachments/assets/758d3fbc-e3d3-4e8d-977b-35de2d550a14" />
 
+## Technologies Used
+IBM Watson Assistant – Natural language understanding
+
+<link>https://api.au-syd.assistant.watson.cloud.ibm.com/instances/9a79d680-5e9f-4c83-9871-28eaeab0d674</link>
+
 
 
 
